@@ -15,3 +15,7 @@ this details the steps to create the project.
 2. add objectify.jar and guava.jar into web-inf/jar/ folder.  add these jar to classpath (on eclipse, select project->properties->java build path->library.  and add the two jar files)
 
 3. all the other steps are same as detailed in https://cloud.google.com/appengine/docs/java/gettingstarted/usingdatastore
+
+
+run locally and go to the below url to test. 
+http://localhost:8888/
